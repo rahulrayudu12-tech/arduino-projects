@@ -1,0 +1,19 @@
+# Compiled object files and binaries
+*.o
+*.obj
+*.hex
+*.elf
+*.bin
+
+# Build folders
+build/
+output/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.bak
+.vscode/
+.idea/
